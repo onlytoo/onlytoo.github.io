@@ -11,8 +11,9 @@ h1{
   background-color: #00a9a9;
   }
 
-.navbar .brand {
-    padding: 10px 20px;
+.navbar .navbar-inner .brand {
+    padding: 0;
+    line-height: 50px;
 }
 
 .navbar .nav {  
